@@ -5,6 +5,7 @@ I did not test with the LK5 Pro. Since this is a similar printer as the LK4 Pro 
 
 Only use this screen firmware with this version of Marlin https://github.com/Guizz27/Marlin---Longer-LKx-Pro
 
+**To update the screen firmware you need to use a SD card 32GB or less formatted with FAT32 and 4096 bytes allocation units**
 
 ## How to install
 1. Use a pre-built version from the release page https://github.com/Guizz27/DWIN_LK4Pro/releases.
