@@ -1,3 +1,6 @@
+# NOTICE
+This repository will soon be archived. I do not plan on using this project anymore for the screen firmware. I have another project I started that will replace this. 
+
 # DWIN_LKxPro
 
 Screen firmware for Longer LK4/LK5 Pro. should also work with Alfawise U30 Pro although the boot screen has the Longer3D logo.
