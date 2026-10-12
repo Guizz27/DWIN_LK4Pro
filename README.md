@@ -41,5 +41,9 @@ Follow these steps if you prefer to use the source files instead of the already 
 8. Turn off the printer and remove the SD card.
 9. Turn the printer on, you should have the new screen.
 
+# License
+
+This DWIN_LK4Pro firmware is published under the [GPL license](/LICENSE). The GPL comes with both rights and obligations. Whether you use this firmware as the driver for your open or closed-source product, you must keep it open, and you must provide your compatible firmware source code to end users upon request. The most straightforward way to comply with this license is to make a fork of DWIN_LK4Pro on Github, perform your modifications, and direct users to your modified fork.
+
 # Disclaimer
 You use this firmware at your own risk and I am not responsible for damages it may cause.
